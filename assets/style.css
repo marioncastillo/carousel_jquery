@@ -12,3 +12,7 @@ body{
 	margin-left: 5px;
 	margin-top: 20px;
 }
+
+.imagenes{
+	background-image: url(img/3.jpg);
+}
