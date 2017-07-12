@@ -11,5 +11,17 @@ $(document).ready(function(){
 			});
 		});
 
+			$("#foto4").click(function() {
+			$("#agrega3").hide(function() {
+			$("#agrega4").append('<img src="assets/img/4.jpg" alt="">')	
+			});
+		});
+
+			$("#foto5").click(function() {
+			$("#agrega4").hide(function() {
+			$("#agrega5").append('<img src="assets/img/4.jpg" alt="">')	
+			});
+		});
+
 
 });
