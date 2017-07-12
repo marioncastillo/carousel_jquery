@@ -19,7 +19,7 @@ $(document).ready(function(){
 
 			$("#foto5").click(function() {
 			$("#agrega4").hide(function() {
-			$("#agrega5").append('<img src="assets/img/4.jpg" alt="">')	
+			$("#agrega5").append('<img src="assets/img/5.jpg" alt="">')	
 			});
 		});
 
